@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>index.html</title>
+</head>
+<style>
+h1{
+  color:red;
+  text-align:center;
+} 
+</style>
+<h1>Squadre europee di calcio</h1>
+<body bgcolor="coral">
+<ol type=1>
+<p> Ciao a tutti e benvenuti nel mio primo sito. <br> </p>
+<p> Cliccando nel nome delle varie squadre, avrete l'opportunita' di avere informazioni e immagini della squadra che avete scelto </b> </p>
+<p><b> Buona visione <b></p>
+<li><a href="squadra1/squadra1.html "target="_blank"> Milan</li> 
+<img src="loghi/logo1.jpg" width=70px style="float:top">
+<br>
+<li><a href="squadra2/squadra2.html "target="_blank">Roma</li>
+<img src="loghi/logo2.jpg" width=85px style="float:top">
+<br>
+<li><a href="squadra 3/squadra3.html" target="_blank">Real Madrid</li>
+<img src="loghi/logo3.jpg" width=70px style="float:top">
+<br>
+<li><a href="squadra4/squadra4.html " target="_blank" >Manchester City</li>
+<img src="loghi/logo4.jpg" width=85px" style="float:top">
+<br>
+<li><a href="squadra5/squadra5.html" target="_blank">PSG</li>
+<img src="loghi/logo5.jpg" width=150px style="float:top">
+<br>
+
+
+</body>
+</html>
